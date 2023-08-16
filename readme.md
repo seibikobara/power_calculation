@@ -1,4 +1,4 @@
-# sample size calculation and power calculation
+# Sample size calculation and power calculation
 
 
 ## Sample size calculation and power analysis in general
